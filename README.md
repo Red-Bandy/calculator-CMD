@@ -1,14 +1,4 @@
-calculator-project/
-├── src/
-│   ├── call.py          # الملف الرئيسي لتشغيل البرنامج
-│   ├── operations/      # مجلد العمليات الحسابية
-│   │   ├── __init__.py
-│   │   ├── addition.py
-│   │   ├── subtraction.py
-│   │   ├── multiplication.py
-│   │   └── division.py
-├── README.md            # ملف الشرح
-└── requirements.txt     # (اختياري) إذا كانت هناك حزم خارجية
+
 
 ```markdown
 # 🧮 Simple Command-Line Calculator
